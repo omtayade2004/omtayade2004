@@ -9,7 +9,7 @@ Currently learning hands-on data analytics at upGrad Learning Support Center, Pu
 ## 🛠 Skills
 <p align="left">
   ## 🛠 Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
