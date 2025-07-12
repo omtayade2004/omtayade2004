@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Om Tayade
 
-<!--
-**omtayade2004/omtayade2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | MBA (Data Science & Operations Management) student | Passionate about turning data into insights.
 
-Here are some ideas to get you started:
+Currently learning hands-on data analytics at upGrad Learning Support Center, Pune.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>
+</p>
+
+---
+
+## 📄 Bio
+- 🎓 MBA (Data Science & Operations Management) from NMIMS Mumbai (Distance)
+- 📍 Learning Data Science & Analytics at upGrad Learning Support Center Pune
+- 📊 Interested in data cleaning, visualization, dashboard design, and predictive analytics
+- 📈 Love building projects that transform raw data into actionable business insights
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-tayade-525359310)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omtayade2004)
+
+---
+
+> ⚡ "Turning complex data into clear business strategies."
