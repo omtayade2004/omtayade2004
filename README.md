@@ -13,7 +13,7 @@ Currently learning hands-on data analytics at upGrad Learning Support Center, Pu
   <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
+  <img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg](https://img.icons8.com/?size=100&id=xkshT6OxzUja&format=png&color=000000)" alt="Tableau" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" alt="Excel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
